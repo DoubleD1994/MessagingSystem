@@ -1,0 +1,10 @@
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\bin\Debug\MessagingSystem.exe.config
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\bin\Debug\MessagingSystem.exe
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\bin\Debug\MessagingSystem.pdb
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.csprojResolveAssemblyReference.cache
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.frmSystem.resources
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.Properties.Resources.resources
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.csproj.GenerateResource.Cache
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.exe
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\obj\Debug\MessagingSystem.pdb
+H:\Software Engineering\Course Work\MessagingSystem\MessagingSystem\bin\Debug\Newtonsoft.Json.dll
